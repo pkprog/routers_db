@@ -23,14 +23,14 @@
             "manufacturer": "MicroTik",
             "model": "hAP ac2",
             "rating": 4.8,
-            "photo": "./demo-data/photo/3.webp"
+            "photo": ""
         },
         {
             "id": "dlink_1",
             "manufacturer": "D-Link",
             "model": "DIR-1260",
             "rating": 4.8,
-            "photo": "./demo-data/photo/4.webp"
+            "photo": ""
         }
     ],
     "images": [
@@ -41,6 +41,14 @@
         {
             "id": "asus_def",
             "path": "./demo-data/photo/2.webp"
+        },
+        {
+            "id": "microtik_1",
+            "path": "./demo-data/photo/3.webp"
+        },
+        {
+            "id": "dlink_1",
+            "path": "./demo-data/photo/4.webp"
         }
     ]
 }
