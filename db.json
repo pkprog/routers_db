@@ -31,6 +31,14 @@
             "model": "DIR-1260",
             "rating": 4.8,
             "photo": ""
+        },
+        {
+            "id": "dlink_2",
+            "manufacturer": "D-Link",
+            "model": "DAP-3310",
+            "rating": 3.6,
+            "photo": "",
+            "photoBac": "Он белый"
         }
     ],
     "images": [
